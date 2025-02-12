@@ -17,12 +17,12 @@ FaceShare is an Android application designed to revolutionize the way you share 
 4. **Sharing via WhatsApp**: Once the identities are matched, a WhatsApp message is sent to each identified person with a link to download the high-quality image.
 
 ## Technologies Used
-- **Android (Java/Kotlin)**: For the mobile application development.
+- **Android (Kotlin)**: For the mobile application development.
 - **Express.js**: A fast, minimalist web framework for handling backend requests.
 - **FaceApi**: Used for detecting and analyzing facial features.
 - **MongoDB**: A NoSQL database used to store user data and facial features.
 - **WhatsApp API**: For sending messages with download links to identified users.
-- **AWS S3/Server Storage**: To store images in high quality.
+- **Server Storage**: To store images in high quality.
 
 ## Setup & Installation
 
@@ -39,7 +39,6 @@ FaceShare is an Android application designed to revolutionize the way you share 
         ```bash
         npm install
         ```
-    - Set up environment variables such as database credentials and API keys for WhatsApp and FaceApi.
     - Start the Express server:
         ```bash
         npm start
