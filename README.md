@@ -51,7 +51,7 @@ FaceShare is an Android application designed to revolutionize the way you share 
 ## How to Use
 - **Register**: Create an account by uploading a photo of yourself.
 - **Take a Group Photo**: Use the app to take a photo of a group, and it will automatically detect faces.
-- **Receive a Link**: If the faces are identified, you’ll receive a WhatsApp message with a link to download the high-quality image.
+- **Receive a Link**: If faces are identified, a WhatsApp message will be preloaded for each identified person, containing a link to download the high-quality image.
 - **Download the Photo**: Click the link in the WhatsApp message to download the image without losing quality.
 
 ## Why FaceShare?
